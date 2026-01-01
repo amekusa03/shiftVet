@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "esbenp.prettier-vscode",
+        "EditorConfig.EditorConfig",
+        "mkaufman.HTMLHint",
+        "ritwickdey.LiveServer",
+        "anthropic.claude-code"
+    ]
+}
